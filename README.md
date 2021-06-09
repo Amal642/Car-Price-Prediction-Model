@@ -1,6 +1,6 @@
 # Car-Price-Prediction-Model
 
-My First Machine Learning Model using Random Forest regression
+Car-Price-Prediction Machine Learning Model using Random Forest regression
 
 To predict the price of car based on
 
